@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 29ba14f258d4d5f4390211af571a6fca
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Double?Bubble Shadow
+  fontNames:
+  - Double?Bubble Shadow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f3482402d2186dd449db30c28268f454, type: 3}
+  - {fileID: 12800000, guid: 24e5dc1884fad2545ae458412abea366, type: 3}
+  - {fileID: 12800000, guid: f790b34abee206143ae6593a6433d52b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
